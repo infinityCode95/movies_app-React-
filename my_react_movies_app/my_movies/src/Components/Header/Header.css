@@ -1,0 +1,33 @@
+.header__wrapper {
+     background-color: black;
+     padding: 15px 0px;
+}
+
+.header__container {
+     max-width: 1450px;
+     margin: 0 auto;
+}
+
+.header__flex {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.header__logo {
+     cursor: pointer;
+     color: white;  
+}
+
+.header__title {
+     font-size: 20px;
+     color: white;
+}
+
+
+
+
+
+
+
+

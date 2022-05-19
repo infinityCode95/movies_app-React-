@@ -1,0 +1,14 @@
+.movies {
+}
+
+.movies__wrapper {
+     max-width: 800px;
+     margin: 0 auto;
+}
+
+.movies__flex {
+     display: flex;
+     justify-content: center;
+     gap: 20px 40px;
+     flex-wrap: wrap;
+}
